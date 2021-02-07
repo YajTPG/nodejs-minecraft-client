@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-based-console-client",
+  "version": "0.0.4",
+  "description": "NodeJS Based Minecraft Console Client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "minecraft",
+    "client"
+  ],
+  "author": "YajTPG",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "mineflayer": "3.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{   
+    "__comment1__": "Use an Email for username if you're using a premium account.",
+    "__comment2__": "Leave password empty and use a username if using cracked account. (Requires offline-mode set to false)",
+    "__comment3__": "Leave `cmd1` and `cmd2` empty if you don't want to execute anything once the player joins the server.",   
+    "username": "",
+    "password": "",
+    "serverIP": "",
+    "port": "",
+    "minecraftVersion": "",
+    "cmd1": "",
+    "cmd2": "",
+    "auth": "mojang"
+}
